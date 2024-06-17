@@ -1,7 +1,7 @@
 # Financial-Health-of-Companies
 
 ## Project Overview
-
+This is my project from Data Analytics class at UWO
 This project analyzes the financial health of companies by examining their profit metrics. The analysis involves data cleaning, transformation, and visualization to provide insights into the distribution of profits among various companies. The primary analysis is contained within the Jupyter Notebook `1000_Companies_Financial_Analysis.ipynb`.
 
 ## Files in the Repository
@@ -19,7 +19,7 @@ The main objective of this notebook is to analyze the profit data of companies, 
 - Visualize the results to draw meaningful insights
 
 ### Data
-
+Source : (https://www.kaggle.com/datasets/sadikaljarif/1000-companiescsv)
 The dataset used in this analysis is `1000_Companies_revised.csv`, which contains financial information about various companies. The dataset includes columns such as:
 - `R&D Spend`
 - `Administration`
