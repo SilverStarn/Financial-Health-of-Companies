@@ -1,0 +1,2 @@
+iteration one r2: 0.9112695892268704
+iteration two r2: 0.9999928864695683
