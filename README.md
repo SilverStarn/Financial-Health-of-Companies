@@ -71,3 +71,8 @@ The dataset used in this analysis is `1000_Companies_revised.csv`, which contain
 
   # Drop rows with missing 'Profit' values
   companies.dropna(subset=['Profit'], inplace=True)
+
+### Output Overview
+![wErQXN0s69T0QAAAABJRU5ErkJggg](https://github.com/SilverStarn/Financial-Health-of-Companies/assets/26052478/7c6b195c-258a-49c2-870b-a8e0d6a1d484)
+![vZoXVLTeFAIAAAAASUVORK5CYII](https://github.com/SilverStarn/Financial-Health-of-Companies/assets/26052478/ac322206-bca1-45df-9c56-9194ede267d9)
+
