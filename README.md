@@ -19,7 +19,7 @@ The main objective of this notebook is to analyze the profit data of companies, 
 - Visualize the results to draw meaningful insights
 
 ### Data
-Source : (https://www.kaggle.com/datasets/sadikaljarif/1000-companiescsv)
+Source : (https://www.kaggle.com/datasets/sadikaljarif/1000-companiescsv).
 The dataset used in this analysis is `1000_Companies_revised.csv`, which contains financial information about various companies. The dataset includes columns such as:
 - `R&D Spend`
 - `Administration`
